@@ -1,0 +1,52 @@
+.homepg{
+    height:calc(100vh - 120px);
+    overflow:hidden;
+    position: relative;
+    .wrapper{
+        height: 100%;
+        width:1280px;
+        margin: auto;
+        .textCont{
+            display: flex;
+            height: 100%;
+            width:50%;
+            flex-direction: column;
+            gap:40px;
+            justify-content: center;
+            h2{
+                font-size:48px;
+                letter-spacing: 6PX;
+                font-weight:900;
+                color: rgba(55, 1, 55, 0.281);
+            }
+            h1{
+                font-size: 66px;
+            }
+        }
+        img{
+            height: 3rem;
+            width: 2.8rem;
+        }
+        .btns{
+            display: flex;
+            
+            gap:15px;
+        }
+        button{
+            padding:1rem;
+            cursor: pointer;
+            font-size: medium;
+            color:snow;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 10rem;
+        }
+    }
+    
+    .bgimg{
+        height: 100%;
+        position: absolute;
+        top:0;
+        right:0;
+    }
+}

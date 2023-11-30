@@ -1,0 +1,31 @@
+{
+  "companyName": "Microsoft",
+  "shortDesc": "loremlorem loremlorem loremlorem ...",
+  "jobs": [
+    {
+      "name": "MERN Stack",
+      "jobType": "Full Time",
+      "skills": "Reactjs, nodejs, mern stack, frontend, backend"
+    },
+    {
+      "name": "SDE 1",
+      "jobType": "Full Time",
+      "skills": "Reactjs, nodejs, mern stack, frontend, backend"
+    },
+    {
+      "name": "SDE 2",
+      "jobType": "Full Time",
+      "skills": "Reactjs, nodejs, mern stack, frontend, backend"
+    },
+    {
+      "name": "SDE 3",
+      "jobType": "Full Time",
+      "skills": "Reactjs, nodejs, mern stack, frontend, backend"
+    },
+    {
+      "name": "Site Reliabilty Engineer",
+      "jobType": "Full Time",
+      "skills": "Reactjs, nodejs, mern stack, frontend, backend"
+    }
+  ]
+}

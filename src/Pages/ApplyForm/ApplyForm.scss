@@ -1,0 +1,33 @@
+.container{
+    h1{
+        margin-left: 35vw;
+    }    
+    height:100vh;
+    width: 100vw;
+    .formcontainer{
+        width:60%;
+        margin-top: 5dvh;
+        form{
+            margin-left: 28vw;
+            display: flex;
+            flex-direction: column;
+            gap:100px;
+            }
+        .inputfield{
+            label{
+                font-size: 24px;
+            }
+            display: flex;
+            justify-content: space-between;
+            input, textarea{
+                color: black;
+                padding:1px;
+                width:20rem;
+                height:3rem;
+                font-size: 20px;
+                background-color: transparent;
+            }
+            
+        }
+    }
+}

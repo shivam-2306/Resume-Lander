@@ -1,0 +1,23 @@
+.card{
+    margin-top:2rem;
+    margin-bottom:3rem;
+    width: 70%;
+    display: flex;
+    border:solid 1px black;
+    flex-direction: column;
+    .cardtext{
+        display: flex;
+        padding: 1rem;
+        font-size: 25px;
+        align-items: flex-end;
+        justify-content: space-between;
+        margin-bottom: 3rem;
+    }
+    h3{
+        padding:10px;
+        margin-left: 20px;
+    }
+    button{
+        margin-right: 20px;
+    }
+}
